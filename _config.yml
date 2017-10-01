@@ -12,7 +12,7 @@ markdown: kramdown
 title :  木瓜行者
 tagline: Louis' Blog
 
-plugins: [jekyll-paginate]
+gems: [jekyll-paginate]
 
 # Information about author
 #
