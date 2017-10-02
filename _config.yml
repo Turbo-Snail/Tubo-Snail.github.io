@@ -9,15 +9,15 @@ markdown: kramdown
   
 # The title and tagline is showed on homepage
 #
-title :  木瓜行者
-tagline: Louis' Blog
+title: 
+tagline: Louis' blog
 
 gems: [jekyll-paginate]
 
 # Information about author
 #
-author :
-  name : Louis Chen
+author : 木瓜行者
+  name : Louis
   
 # Information for contacts showed at on the footer
 #
@@ -30,6 +30,7 @@ contact :
 #
 links :
   Louis' Blog : http://Turbo-Snail.github.io/
+  简书:http://www.jianshu.com/u/584b1e618d93
 
 # The search engine. Only support google custom search engine.
 #
