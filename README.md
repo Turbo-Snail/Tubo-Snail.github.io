@@ -1,6 +1,6 @@
 # 说明
 
-本站Fork自Simpleyyt, 是一款NexT博客模板。更多内容请参考[Simpleyyt Github Page](https://github.com/Simpleyyt/jekyll-simpleyyt)
+本站Fork自Simpleyyt, 是一款NexT博客模板。更多内容请参考 [Simpleyyt Github Page](https://github.com/Simpleyyt/jekyll-simpleyyt)
 
 # NexT
 
