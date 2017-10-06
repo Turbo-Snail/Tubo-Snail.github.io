@@ -9,15 +9,15 @@ markdown: kramdown
   
 # The title and tagline is showed on homepage
 #
-title: 迷宫中的逐光者
-tagline: 追逐时光，看见成长
+title: 立言力行
+tagline: 用文字捕捉蝴蝶，用呼吸丈量世界
 
 gems: [jekyll-paginate]
 
 # Information about author
 #
 author : 木瓜行者
-name : Louis
+name : Louis Chan
   
 # Information for contacts showed at on the footer
 #
