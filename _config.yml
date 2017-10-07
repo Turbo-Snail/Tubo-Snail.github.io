@@ -4,10 +4,9 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
-kramdown:
-input: GFM
-
 highlighter: rouge
+markdown: kramdown
+input: GFM
   
 # The title and tagline is showed on homepage
 #
