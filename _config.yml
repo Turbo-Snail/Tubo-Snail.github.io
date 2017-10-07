@@ -15,7 +15,7 @@ kramdown:
 title: 立言力行
 tagline: 用文字捕捉蝴蝶，用呼吸丈量世界
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 # Information about author
 #
@@ -30,6 +30,7 @@ links :
   阳志平的博客: http://www.yangzhiping.com
   陈素封的博客: http://www.cnfeat.com
   方寸之地 (读书打卡的地方): http://www.fangcunzhidi.com
+  简书：http://www.jianshu.com/u/584b1e618d93
 
 # The search engine. Only support google custom search engine.
 #
@@ -153,3 +154,5 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+
+
