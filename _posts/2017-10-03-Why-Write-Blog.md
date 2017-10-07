@@ -2,8 +2,8 @@
 layout: post
 <<<<<<< Updated upstream
 title: '开篇语：我为什么一定要写博客？'
-tagline:
-categories: Essay
+tagline: 我写我心
+categories: 随笔
 date: '2015-10-07'
 tags:
   - Writing
