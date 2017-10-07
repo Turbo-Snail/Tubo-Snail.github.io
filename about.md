@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Me
-header: About Me
+header: 
 group: navigation
 ---
  * **Name:** 陈立力
