@@ -4,11 +4,13 @@ date: '2015-10-07'
 layout: post
 slug: 
 tagline: 我写我心
-tags:写作
+tags:
+- markdown
 title: '开篇语：我为什么一定要写博客？'
 info: 
 comment: 
-categories: 随笔
+categories: 
+- markdown
 published: true
 
 ---
