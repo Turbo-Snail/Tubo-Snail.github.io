@@ -5,12 +5,12 @@ layout: post
 slug: 
 tagline: 我写我心
 tags:
-  - markdown
+  - 写作
 title: '开篇语：我为什么一定要写博客？'
 info: 
 comment: 
-categories: 随笔
-  - markdown
+categories: 
+  - 随笔
 published: true
 
 ---
