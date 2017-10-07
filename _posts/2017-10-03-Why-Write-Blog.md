@@ -1,14 +1,18 @@
 ---
-layout: post
-<<<<<<< Updated upstream
-title: '开篇语：我为什么一定要写博客？'
-tagline: 我写我心
-categories: 随笔
+category: markdown
 date: '2015-10-07'
+layout: post
+slug: 
+tagline: 我写我心
 tags:
-  - Writing
-comments:
+  - markdown
+title: '开篇语：我为什么一定要写博客？'
+info: 
+comment: 
+categories: 随笔
+  - markdown
 published: true
+
 ---
 
 > 如果你准备在一堆人中挑选出一个人来做某份工作，那就挑文章写的最好的那个。至于他有没有做过市场、销售、设计、编程或其他工作，倒并不是最重要的。这种人的写作才华就值得雇佣，因为，一个优秀的写手，其优点不仅仅在于写作。 - 《重来》
