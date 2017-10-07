@@ -10,7 +10,7 @@ title: '开篇语：我为什么一定要写博客？'
 info: 
 comment: 
 categories: 
-- markdown
+- 随笔
 published: true
 
 ---
