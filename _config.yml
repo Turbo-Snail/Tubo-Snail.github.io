@@ -5,7 +5,9 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
 markdown: kramdown
+kramdown:
 input: GFM
+
 highlighter: rouge
   
 # The title and tagline is showed on homepage
@@ -22,11 +24,6 @@ name : Louis Chan
   
 # Information for contacts showed at on the footer
 #
-contact :
-  e-mail : mailto:tier_523@.163com
-  Github : https://github.com/Turbo-Snail
-  
-  
 # Links showed on the footer
 #
 links :
