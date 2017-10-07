@@ -3,9 +3,10 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: rouge
 
 markdown: kramdown
+input: GFM
+highlighter: rouge
   
 # The title and tagline is showed on homepage
 #
@@ -16,7 +17,7 @@ gems: [jekyll-paginate]
 
 # Information about author
 #
-author : 木瓜行者
+author : 陈立力
 name : Louis Chan
   
 # Information for contacts showed at on the footer
@@ -29,7 +30,9 @@ contact :
 # Links showed on the footer
 #
 links :
-  Louis' Blog : http://Turbo-Snail.github.io/
+  阳志平的博客: http://www.yangzhiping.com
+  陈素封的博客: http://www.cnfeat.com
+  方寸之地 (读书打卡的地方): http://www.fangcunzhidi.com
 
 # The search engine. Only support google custom search engine.
 #
