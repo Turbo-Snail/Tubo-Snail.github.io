@@ -1,12 +1,12 @@
 ---
 category: markdown
-date: '2017-11-26'
+date: '2017-12-9'
 layout: post
 slug: 
 tagline: 我写我心
 tags:
 - 写作
-title: ''
+title: '教过去的自己写作'
 info: 
 comment: 
 categories: 
