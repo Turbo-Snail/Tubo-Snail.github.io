@@ -10,7 +10,7 @@ title: ''
 info: 
 comment: 
 categories: 
-- 写作
+- 方法论
 published: true
 ---
 
